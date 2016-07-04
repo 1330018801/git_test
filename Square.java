@@ -1,3 +1,6 @@
+// for test
+
+
 class Square extends Shape {
 	private float length;
 
