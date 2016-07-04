@@ -1,3 +1,5 @@
+// test for branch
+
 class Square extends Shape {
 	private float length;
 
