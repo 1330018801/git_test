@@ -2,7 +2,7 @@
 
 // test for branch
 
-class Square extends Shape {
+public class Square extends Shape {
 	private float length;
 
 	Shape(float f = 10) {
